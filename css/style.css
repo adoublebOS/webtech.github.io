@@ -1,0 +1,17 @@
+.mw-100 {
+    max-width: 100rem;
+}
+
+.shadow-nav {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.menu {
+}
+
+.menu span a {
+    font-size: .875rem;
+    line-height: 1.25rem;
+    color: rgba(107, 114, 128, 1);
+    padding-right: 3rem;
+}
