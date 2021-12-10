@@ -25,3 +25,21 @@
     color: rgb(55 65 81);
     border-color: rgb(107 114 128);
 }
+
+.premium {
+    font-weight: bold;
+    color: rgb(14 165 233);
+}
+
+.ultimate {
+    font-weight: bold;
+    color: rgb(79 70 229);
+}
+
+.premium-button {
+    background: rgb(14 165 233);
+}
+
+.premium-button:hover {
+    background: rgb(3 105 161);
+}
