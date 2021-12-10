@@ -13,3 +13,6 @@ function randomPercentage() {
 
 document.getElementById("customer-count").innerHTML = getRandomInt(1000, 5000);
 document.getElementById("increase").innerHTML = randomPercentage() + "%";
+
+
+document.onload()
